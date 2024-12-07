@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+CEO Quang Hưng - Lãnh đạo tài năng đưa Sin88 vươn tầm quốc tế
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`CEO Quang Hưng <https://sin88.soy/quang-hung/>`_ của Sin88 là một người lãnh đạo tài năng và đầy nhiệt huyết, có tầm nhìn chiến lược rõ ràng trong ngành công nghiệp cá cược trực tuyến. Với nhiều năm kinh nghiệm trong lĩnh vực này, ông đã góp phần đưa Sin88 trở thành một trong những nhà cái uy tín hàng đầu tại châu Á. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Dưới sự dẫn dắt của CEO Quang Hưng, Sin88 không ngừng phát triển và mang đến cho người chơi những trải nghiệm giải trí chất lượng, an toàn và tiện lợi. Cam kết về sự đổi mới và cải tiến không ngừng, CEO Quang Hưng luôn đặt mục tiêu mang lại những sản phẩm và dịch vụ tốt nhất cho cộng đồng người chơi, xây dựng một nền tảng cá cược trực tuyến hiện đại và đáng tin cậy.
 
-.. note::
+Thông tin liên hệ: 
 
-   This project is under active development.
+Địa chỉ: 2676A Đ. Phạm Thế Hiển, Phường 7, Quận 8, Hồ Chí Minh, Vietnam. 
 
-Contents
---------
+Phone: 0366323990. 
 
-.. toctree::
+Email: contact@sin88.soy. 
 
-   usage
-   api
+Website: https://sin88.soy/quang-hung/ 
+
+#quanghung #ceoquanghung #ceoquanghung_sin88
